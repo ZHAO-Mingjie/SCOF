@@ -8,7 +8,7 @@ All code is written in Matlab 2022a. Each section serves the following purpose:
 - The `DiSC` folder details the code of the DiSC algorithm.
 
 The script information in the `DiSC` file are as follows:
-- The `initialization.m` initialize `\mathbf{H}` and `M`.
+- The `initialization.m` initialize cluster partition `H` and cluster centers `M`.
 - The `DiSC.m` file is the main component of the DiSC algorithm and executes the outer loop.
 - The `IDiSC.m` file implements the inner loop function of the DiSC algorithm.
 - The `DiSCD.m` file is responsible for inferring the relation tree and tuning the Personalized cluster distance matrix.
