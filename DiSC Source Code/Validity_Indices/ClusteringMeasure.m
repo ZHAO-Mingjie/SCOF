@@ -1,5 +1,4 @@
 function [result] = ClusteringMeasure(Y, predY)
-% original version: Feiping Nie, 2010
 % output: ACC, NMI, Purity, ARI, Precision, Recall, F-score
 if size(Y,2) ~= 1
     Y = Y';
