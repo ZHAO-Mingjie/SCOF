@@ -18,3 +18,16 @@ Finally, the `Execute_Clustering.m` file executes the entire DiSC algorithm on t
 # How to run
  - Ensure that the `DiSC Source Code` folder has been added to the execution path by right-clicking the folder, selecting `Add to Path`, and then left-clicking `Selected Folders and Subfolders`.
  - Run the `Execute_Clustering.m` file, and the results will be displayed in the command line window.
+
+General citation: 
+Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, Yiqun Zhang and Yiu-ming Cheung, "Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering", Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI'2026), January 27, 2026.
+
+Latex citation:
+@inproceedings{zhao26DISC,
+  title={Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering},
+  author={Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, Yiqun Zhang and Yiu-ming Cheung},
+  booktitle={Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence},
+  year={2026}
+}
+____________________
+All rights reserved.
