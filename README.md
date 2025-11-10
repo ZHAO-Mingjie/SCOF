@@ -1,5 +1,5 @@
 # Datasets
-All 12 datasets used in `Cluster2Dist: Learning Distance Structures from Clusters for Robust Categorical Data Clustering` can be found in  the `Data` folder. 
+All 12 datasets used in `Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering` can be found in  the `Data` folder. 
 # Code information
 
 All code is written in Matlab 2022a. Each section serves the following purpose:
